@@ -4,6 +4,11 @@ import java.util.Scanner;
 
 public class III_AscendingNumber2 {
     public static void main(String[] args) {
+        /**
+         * 1
+         * 2 2
+         * 3 3 3
+         */
         Scanner input=new Scanner(System.in);
 
         System.out.println("Enter the number: ");

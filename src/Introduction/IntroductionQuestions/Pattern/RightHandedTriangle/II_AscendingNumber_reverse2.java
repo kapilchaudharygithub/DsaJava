@@ -3,7 +3,13 @@ package Introduction.IntroductionQuestions.Pattern.RightHandedTriangle;
 import java.util.Scanner;
 
 public class II_AscendingNumber_reverse2 {
+
     public static void main(String[] args) {
+        /**
+         * 1 2 3
+         * 1 2
+         * 1
+         */
         Scanner input=new Scanner(System.in);
 
         System.out.println("Enter the number: ");

@@ -4,6 +4,11 @@ import java.util.Scanner;
 
 public class IX_NumberPattern {
     public static void main(String[] args) {
+        /**
+         * 1 2 3
+         * 4 5 6
+         * 7 8 9
+         */
         Scanner input=new Scanner(System.in);
 
         System.out.println("Enter the number: ");

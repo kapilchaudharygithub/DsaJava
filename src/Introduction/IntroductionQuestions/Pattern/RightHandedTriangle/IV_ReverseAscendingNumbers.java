@@ -4,6 +4,11 @@ import java.util.Scanner;
 
 public class IV_ReverseAscendingNumbers {
     public static void main(String[] args) {
+        /**
+         * 1
+         * 2 1
+         * 3 2 1
+         */
         Scanner input=new Scanner(System.in);
 
         System.out.println("Enter the number: ");

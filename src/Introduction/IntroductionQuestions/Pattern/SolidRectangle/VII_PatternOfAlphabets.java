@@ -4,6 +4,11 @@ import java.util.Scanner;
 
 public class VII_PatternOfAlphabets {
     public static void main(String[] args) {
+        /**
+         * a a a
+         * b b b
+         * c c c
+         */
         Scanner input=new Scanner(System.in);
 
         System.out.println("Enter the num: ");

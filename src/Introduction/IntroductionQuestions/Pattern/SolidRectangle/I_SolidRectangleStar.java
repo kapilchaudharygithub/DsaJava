@@ -4,6 +4,11 @@ import java.util.Scanner;
 
 public class I_SolidRectangleStar {
     public static void main(String[] args) {
+        /**Print
+         *   * * *
+         *   * * *
+         *   * * *
+         */
         Scanner input=new Scanner(System.in);
 
         System.out.println("Enter the num: ");

@@ -4,6 +4,11 @@ import java.util.Scanner;
 
 public class VI_AscendingSolidStarPattern {
     public static void main(String[] args) {
+        /**
+         * 1 4 9
+         * 1 4 9
+         * 1 4 9
+         */
         Scanner input=new Scanner(System.in);
 
         System.out.println("Enter the num: ");

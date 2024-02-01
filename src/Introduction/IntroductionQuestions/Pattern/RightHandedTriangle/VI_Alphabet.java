@@ -4,6 +4,11 @@ import java.util.Scanner;
 
 public class VI_Alphabet {
     public static void main(String[] args) {
+        /**
+         * a
+         * b b
+         * c c c
+         */
         Scanner input=new Scanner(System.in);
 
         System.out.println("Enter the number: ");
